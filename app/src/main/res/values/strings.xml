@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">xmrProxyStats</string>
+
+    <string name="header">XMR Proxy Stats</string>
+    <string name="hint">---</string>
+    <string name="miscInfoLabels">1 min hash:\n10 min hash:\n1 hr hash:\n12 hr hash:\n24 hr hash:\n\nNos of Workers:</string>
+
+</resources>
