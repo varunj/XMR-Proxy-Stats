@@ -4,4 +4,4 @@ An Android app to display mining stats from XMRig-proxy node.
 Edit stringUrl in function myClickHandler() to point to your proxy server.
 
 *Sample screenshot*
-![](https://github.com/varunj/XMR-Proxy-Stats/blob/master/screenshot.png | width=100)
+![](https://github.com/varunj/XMR-Proxy-Stats/blob/master/screenshot.png){:height="50%" width="50%"}
